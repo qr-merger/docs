@@ -1,0 +1,22 @@
+{
+  "name": "merger-docs",
+  "version": "1.0.0",
+  "description": "merger user docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hifocus/merger-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hifocus/merger-docs/issues"
+  },
+  "homepage": "https://github.com/hifocus/merger-docs#readme",
+  "dependencies": {
+    "html-minifier": "^4.0.0"
+  }
+}
