@@ -2,9 +2,10 @@
   "name": "merger-docs",
   "version": "1.0.0",
   "description": "merger user docs",
-  "main": "index.js",
+  "source": "docs/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx parcel",
+    "parcel": "npx parcel build"
   },
   "repository": {
     "type": "git",
